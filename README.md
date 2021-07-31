@@ -1,6 +1,6 @@
 # helloworld-android
 
-```
+```sh
 export NDK_ROOT=/root/Android/Sdk/ndk/21.1.6352462
 
 sudo ${NDK_ROOT}/toolchains/llvm/prebuilt/linux-x86_64/bin/clang \
